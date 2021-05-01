@@ -1,0 +1,83 @@
+h1 {
+  color: #0a043c;
+  font-size: 45px;
+  padding-top: 40px;
+  margin-bottom: 30px;
+}
+h2 {
+  color: rgb(137, 181, 231);
+  padding-top: 37px;
+  font-size: 15px;
+  text-align: left;
+  text-decoration: none;
+  position: relative;
+  top: 13px;
+  transition: all ease-in-out 100ms;
+}
+
+h2:hover {
+  color: #03506f;
+}
+li {
+  list-style: none;
+  color: #03506f;
+}
+ul {
+  font-size: 15px;
+  position: relative;
+  left: -31px;
+}
+div i {
+  font-size: 30px;
+  padding: 10px 0;
+  color: #f06883;
+}
+
+.container {
+  padding: 10px 40px 30px;
+  max-width: 700px;
+  background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+}
+.enter-city {
+  margin-top: 20px;
+  margin-right: 0;
+}
+.form-control {
+  border: solid 1px #03506f;
+}
+
+.goButton {
+  padding: 0;
+}
+.btn {
+  color: #03506f;
+  border: solid 1px #03506f;
+}
+.btn:hover {
+  background: #03506f;
+  border: #03506f;
+}
+.temperature {
+  text-align: right;
+}
+.current-info {
+  text-align: left;
+  font-size: 18px;
+}
+.current-details {
+  text-align: right;
+  font-size: 18px;
+}
+
+.fa-cloud-sun {
+  font-size: 120px;
+  padding: 15px;
+  position: relative;
+  left: 205px;
+  bottom: 45px;
+}
+.forecast {
+  font-size: 15px;
+  text-align: center;
+  color: #03506f;
+}
