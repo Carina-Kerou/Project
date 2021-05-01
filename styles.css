@@ -1,21 +1,31 @@
 h1 {
   color: #0a043c;
-  font-size: 45px;
+  font-size: 40px;
   padding-top: 40px;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 h2 {
+  color: #0a043c;
+  font-size: 55px;
+  padding-top: 10px;
+  margin-bottom: 30px;
+  position: relative;
+  left: 50px;
+}
+h3 {
   color: rgb(137, 181, 231);
   padding-top: 37px;
   font-size: 15px;
   text-align: left;
   text-decoration: none;
   position: relative;
-  top: 13px;
+  left: 60px;
+  bottom: 17px;
+
   transition: all ease-in-out 100ms;
 }
 
-h2:hover {
+h3:hover {
   color: #03506f;
 }
 li {
